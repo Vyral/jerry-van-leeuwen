@@ -19,7 +19,7 @@ client:
   name: Jerry Van Leeuwen
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Jerry has been helping families and individuals find and secure their dream
     homes for many years now. His family has been his driving force and they
     inspire him to maintain a strong work ethic. Jerry's previous experience as
@@ -34,7 +34,7 @@ client:
   phone2:
   phone2_type:
   email: jerry.j.vanleeuwen@gmail.com
-  url: 'https://homesbyvla.com'
+  url: 'http://www.vlahomelistings.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://homesbyvla.com/property/search'
