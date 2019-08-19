@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2019 End-of-Summer Market Update
-date: 2019-08-16 20:57:23
+date: 2019-08-16 20:57:00
 tags:
   - Market Update
 excerpt: Here’s the very latest on our summer real estate market.
