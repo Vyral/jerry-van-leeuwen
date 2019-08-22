@@ -50,8 +50,8 @@ sidebar_CTA:
     CTA_url: 'http://www.vlahomelistings.com/images/landing/homeworth/index.asp'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: Looking for a Cambridge Home?
-    CTA_text2: Search the entire MLS for your Cambridge home.
+    CTA_title2: Looking for a Tri-Cities Area Home?
+    CTA_text2: Search the entire MLS for your Tri-Cities Area home.
     CTA_link_text2: Search the MLS
     CTA_url2: 'http://www.vlahomelistings.com/'
 lender:
