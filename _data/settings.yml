@@ -2,11 +2,11 @@ audit_header: false
 title: Cambridge Real Estate Video Blog with Jerry Van Leeuwen
 description: >-
   Our mission at Van Leeuwen Real Estate Advisors is to be your best resource
-  for Cambridge real estate advice. Whether you are a buyer, seller, or
+  for Tri-Cities Area real estate advice. Whether you are a buyer, seller, or
   investor, our team of professionals can answer any questions you might have
   about real estate. If you are looking to buy or sell a home, you can get all
   the information and the latest updates, tips, and tricks from The Van Leeuwen
-  Real Estate Advisors, your professional Cambridge Real Estate Agents.
+  Real Estate Advisors, your professional Tri-Cities Area Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -37,9 +37,9 @@ client:
   url: 'http://www.vlahomelistings.com/'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.vlahomelistings.com/images/landing/homeworth/index.asp
+  first_CTA_URL: 'http://www.vlahomelistings.com/images/landing/homeworth/index.asp'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.vlahomelistings.com/
+  second_CTA_URL: 'http://www.vlahomelistings.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Cambridge Home Worth?
@@ -47,13 +47,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: http://www.vlahomelistings.com/images/landing/homeworth/index.asp
+    CTA_url: 'http://www.vlahomelistings.com/images/landing/homeworth/index.asp'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a Cambridge Home?
     CTA_text2: Search the entire MLS for your Cambridge home.
     CTA_link_text2: Search the MLS
-    CTA_url2: http://www.vlahomelistings.com/
+    CTA_url2: 'http://www.vlahomelistings.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
