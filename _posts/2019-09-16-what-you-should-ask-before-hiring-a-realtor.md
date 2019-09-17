@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Ask Before Hiring a Realtor
-date: 2019-09-16 21:46:07
+date: 2019-09-16 21:46:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,11 +21,11 @@ youtube_code: o6gZg4Ir4-s
 
 {% include youtube.html %}
 
-9,716 homes have been listed in our market so far, but only 6,116 of those listings actually sold. This means 33% of all homes in our local market have failed to sell. Why has this happened?&nbsp;
+Year to date, 9,716 homes have been listed in our market, but only 6,116 of those listings actually sold. This means 33% of all homes in our local market have failed to sell. Why has this happened?&nbsp;
 
 My guess is that, in many instances, those homes failed to sell because they were being represented by the wrong agent. This just goes to show how important your choice of Realtor really is when the time comes for you to sell, and the key to choosing the right agent is to ask the right questions before you hire them. Here are a few questions you should pose to any agent you’re thinking of working with:&nbsp;
 
-**1\. “How many months of inventory are available in my area compared to the overall region?”** Questions like this will not only help you to understand market conditions, but will also help you gauge how knowledgeable an agent is. In addition to explaining local inventory by area, the agent should also be able to break down inventory levels by price point
+**1\. “How many months of inventory are available in my area compared to the overall region?”** Questions like this will not only help you to understand market conditions, but will also help you gauge how knowledgeable an agent is. In addition to explaining local inventory by area, the agent should also be able to break down inventory levels by price point.
 
 {% include pullquote.html %}
 
