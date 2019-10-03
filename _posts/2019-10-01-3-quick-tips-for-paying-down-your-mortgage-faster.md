@@ -22,12 +22,14 @@ youtube_code: '-ILD9g559O0'
 
 {% include youtube.html %}
 
-When you first get your mortgage, the majority of your payment is going towards your interest. However, there are ways to pay down the principal of your loan more quickly, and today we’ll cover three of the most effective methods:
+When you first get your mortgage, the majority of your payment goes towards your interest. However, there are ways to pay down the principal of your loan more quickly, and today we’ll cover three of the most effective methods:
 
 {% include pullquote.html %}
 
 **1\. Round up your mortgage payments.** If you had a $543 bi-weekly payment, for example, upping your payment to $600 would add an extra $14,000 toward your mortgage over time. This would shave years off of the life of your loan.&nbsp;
 
-<br>**2\. Put any extra money you come into toward your loan.** If you get a tax break, for example, adding those funds to your loan could reduce your term by a year or more.<br>&nbsp;<br>**3\. Refinance when interest rates are low.** Currently, interest rates are at historic low. And with lower rates come lower monthly payments. Therefore, if the rate you locked in originally is significantly higher than rates are right now, it may make sense to refinance your mortgage.&nbsp;
+<br>**2\. Put any extra money you come into toward your loan.** If you get a tax break, for example, adding those funds to your loan could reduce your term by a year or more.
+
+**3\. Refinance when interest rates are low.** Currently, interest rates are at historic lows. And with lower rates come lower monthly payments. Therefore, if the rate you locked in originally is significantly higher than rates are right now, it may make sense to refinance your mortgage.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
