@@ -26,8 +26,8 @@ Some of these numbers are absolutely insane. **For example, we had 526 residenti
 
 {% include pullquote.html %}
 
-For detached homes, we had 330 homes sales last month. That’s up by 20.4%. The number of condo sales, however, were down by 24%. **Townhome sales were up by 34.4% and semi-detached sales were up by 10%.**
+For detached homes, we had 330 home sales last month. That’s up by 20.4%. The number of condo sales, however, were down by 24%. **Townhome sales were up by 34.4% and semi-detached sales were up by 10%.**
 
-**Overall, the average sale price is actually yup 10.2% from this time last year and now sits at $541,850.** The average prices for detached homes, townhomes, and semi-detached homes all increased by double digits, while the price for condos increased by just 3%.
+**Overall, the average sale price is actually up 10.2% from this time last year and now sits at $541,850.** The average prices for detached homes, townhomes, and semi-detached homes all increased by double digits, while the price for condos increased by just 3%.
 
-If you have any questions for me about any of these numbers or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about any of these numbers or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
