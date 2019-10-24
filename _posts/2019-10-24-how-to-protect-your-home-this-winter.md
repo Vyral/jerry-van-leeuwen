@@ -7,7 +7,8 @@ excerpt: >-
   It’s that time of year where you should start preparing your home for the cold
   weather that’s coming. Here are five quick, easy things you can do to get
   started.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2019/How+to+Protect+Your+Home+This+Winter.mp4
 pullquote: Clogged gutters can lead to ice damming and leaks.
 enclosure_type: video/mp4
 enclosure_time:
