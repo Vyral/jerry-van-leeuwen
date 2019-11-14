@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Expect from a Home Inspection
-date: 2019-11-12 19:28:19
+date: 2019-11-12 19:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -23,14 +23,11 @@ youtube_code: 5sNc9GCkivk
 
 If you’re a homebuyer in today’s market and you’re purchasing either your first home or a move-up home, having the home inspected is definitely to your advantage.
 
-A home inspection will give you a good scope of the home’s condition and provide a basis on which to estimate the cost of any repairs that will need to be done later down the road. But what sorts of repairs most often come up on an inspection report?
+A home inspection will give you a good scope of the home’s condition and provide a basis on which to estimate the cost of any repairs that will need to be done down the road. What sorts of repairs most often come up on an inspection report?
 
 * **The roof**—What is the age, condition, and life expectancy?
 * **Heating and air conditioning**—Does it function properly? When was it last serviced?
 * **Structural integrity**—Did the previous owners do any renovations? Were those done to code?
-
-{% include pullquote.html %}
-
 * **Foundation**—Are there any cracks in the foundation that could potentially allow water to seep in?
 * **Windows**—What are their ages, conditions, and life expectancies?
 * **Walls**—Some inspectors will use an infrared camera to look through the walls to see if there are any cold spots that might suggest water leakage or weak spots in the insulation.
