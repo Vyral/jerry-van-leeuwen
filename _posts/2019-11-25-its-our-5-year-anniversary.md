@@ -1,10 +1,10 @@
 ---
 layout: post
 title: It's Our 5-Year Anniversary!
-date: 2019-11-25 22:37:42
+date: 2019-11-25 22:37:00
 tags:
   - Real Estate
-excerpt: We would like to say Thank you to everyone for their continued support.
+excerpt: We would like to say thank you to everyone for their continued support.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,9 +18,9 @@ youtube_code: mOrl-XBsPqU
 
 Dear friends,
 
-WINTER IS COMING\! Just kidding, pretty sure it’s knocking at the front door as you read our newsletter\! But this hasn’t stopped us from keeping super busy helping our clients with their home goals\!\! The past month has been action packed with listings and getting our buyers into their new homes\! To read about some of what we’ve been up too, scroll down to see some of our client success stories.
+WINTER IS COMING\! Joking aside, we're pretty sure it’s already knocking at the front door as you read our newsletter\! This hasn’t stopped us from keeping super busy helping our clients with their home goals, though. The past month has been action packed with handling listings and getting our buyers into their new homes. To read about some of what we’ve been up too, scroll down to see some of our client success stories.
 
-As most of you may not know, November officially marks the anniversary of the Van Leeuwen Advisors team which means we have been proudly serving the KW region for 5 wonderful years\!\! We would like to say Thank you to everyone for their continued support because without you, we couldn’t be here\! We are so grateful to be connected so many wonderful people. Our priority and focus here at Van Leeuwen Advisors is always on our clients. We work for them to make sure we give them the best experience we possibly can. It has and will always be the driving force to which our reputation has been built on; Hard work and dedication to our people. Be sure to check out our video above to hear from our fearless team leader about somethings we’ve discovered in this crazy world of real estate within the last 5 years.
+As most of you may not know, November officially marks the Van Leeuwen Advisors team's anniversary. This means we have been proudly serving the KW region for five wonderful years\! We would like to say thank you to each and every one of you for their continued support. Without you, we couldn’t be here\! We are so grateful to be connected to so many wonderful people. Our priority and focus here at Van Leeuwen Advisors is always on our clients. We work for them to make sure we give them the best experience we possibly can. It has and will always be the driving force to which our reputation has been built on: Hard work and dedication to our people. Be sure to check out our video below to hear from our fearless team leader about some things we’ve discovered in this crazy world of real estate within the last five years.
 
 We know how hectic things can get and how packed daily schedules become with the holiday season arriving, so we wish you the best of luck starting your holiday shopping and remind everyone to drive safe out there\!
 
