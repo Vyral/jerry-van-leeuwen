@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips to Maximize Your Holiday Home Sale
-date: 2019-12-12 17:29:26
+date: 2019-12-12 17:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,4 +31,4 @@ Here are four quick tips to remember if you plan on listing your home during the
 
 **4\. Have a great video tour and marketing campaign for your home.** There might be fewer buyers out there right now, but good social media marketing will capture their attention, and they’ll be able to see a 360-degree tour of your home before they see it in person.&nbsp;
 
-If you have any more questions about selling during the holidays or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
+If you have questions about selling during the holidays or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
