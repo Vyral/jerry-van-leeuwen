@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Path to the Good Life
-date: 2020-01-28 20:57:53
+date: 2020-01-28 20:57:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -35,4 +35,4 @@ Sai will use numbers from real-life examples addressing each of these questions.
 
 This event is intended for anyone who’s curious about getting into the market, whether you’re a first-time homebuyer or your average household investor. These are concepts anyone can learn.&nbsp;
 
-**To register for The Path to the Good Life, use this link.** You can also reply to this email or message us on Facebook or Instagram. We hope to see you there\!
+**To RSVP, give us a call or email us at [vanleeuwenadvisors@gmail.com](mailto:vanleeuwenadvisors@gmail.com).** We will also be sending out invites VIA Eventbrite so make sure to keep an eye out for it\! We hope to see you there\!
