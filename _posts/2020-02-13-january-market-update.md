@@ -1,10 +1,10 @@
 ---
 layout: post
 title: January Market Update
-date: 2020-02-13 20:58:58
+date: 2020-02-13 20:58:00
 tags:
   - Market Update
-excerpt: Here are the latest numbers from our Waterloo Region real estate market.
+excerpt: Here are the latest numbers from our Waterloo region real estate market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/January+Market+Update.mp4
 pullquote: The average sale price was up 15.7% in January.
