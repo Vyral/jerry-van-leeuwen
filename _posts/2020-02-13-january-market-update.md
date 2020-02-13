@@ -17,12 +17,12 @@ youtube_code: RDRUU34nSpg
 
 {% include youtube.html %}
 
-This is your monthly real estate market update for January 2020. We started off a little slow, we only sold 281 residential properties out of the 464 that were listed.&nbsp;
+2020 started off a little slow; we only sold 281 residential properties out of the 464 that were listed.&nbsp;
 
 The number of detached homes listed is down 19% from this time in 2019. The number of condos listed has increased by 18.2% from this time last year. The number of semi-detached houses listed was about the same as from this time in 2019. The number of townhomes listed was up 7.9% from this time last year.&nbsp;
 
 {% include pullquote.html %}
 
-The average sale price compared to January 2019 was up 15.7%, at $561,000. Overall the number of properties listed in the Waterloo Region compared to this time last year was down by 21.1%, so **we’re seeing a very strong demand for homes.** This is causing prices to increase dramatically.&nbsp;
+The average sale price compared to January 2019 was up 15.7%, at $561,000. Overall the number of properties listed in the Waterloo region compared to this time last year was down by 21.1%, so **we’re seeing a very strong demand for homes.** This is causing prices to increase dramatically.&nbsp;
 
 If you have any questions about our market or real estate in general, please feel free to give us a call or send an email to getresults@vanleeuwenadvisors.com. We would love to help you.
