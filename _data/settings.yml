@@ -34,7 +34,7 @@ client:
   phone2:
   phone2_type:
   email: GetResults@VanleeuwenAdvisors.com
-  url: 'http://www.VLAHomeListings.com/'
+  url: 'http://www.VLAHomeListings.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.vlahomelistings.com/images/landing/homeworth/index.asp'
