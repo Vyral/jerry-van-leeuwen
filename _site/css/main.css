@@ -1320,7 +1320,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #000000;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1395,7 +1395,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #000;
+  background: #000000;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1466,12 +1466,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .site-title {
   color: #ffffff;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -1936,7 +1936,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px black; }
+  text-shadow: 0px 2px 7px #000000; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1950,7 +1950,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1961,7 +1961,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2480,7 +2480,8 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem; }
+  padding: 0.5rem;
+  border-radius: 5px; }
 form select {
   border: 1px solid #0f75bc;
   padding: 0.5rem;
@@ -2488,25 +2489,37 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #0f75bc;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #0f75bc; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #0f75bc; }
+    border: 3px solid #fff;
+    color: #0f75bc;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #41a8f0; }
+      border: 3px solid #41a8f0;
+      background-color: #41a8f0;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 100%;
+  margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray; }
+    border: 1px solid gray;
+    transition: 0.3s; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2514,20 +2527,19 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #0f75bc; }
+    border: 3px solid #0f75bc;
+    border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #0f75bc;
       border: 1px solid #0f75bc; }
-
-.contact {
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 13%;
-  margin-top: 20px; }
+    .contact-form input[type="submit"]:active {
+      box-shadow: 0 0 0 #0f75bc;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
 
 .cta {
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   color: #123456;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2640,8 +2652,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .page-hero-img {
   background-position: center;
