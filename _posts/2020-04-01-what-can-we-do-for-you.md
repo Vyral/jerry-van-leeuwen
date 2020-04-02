@@ -18,6 +18,8 @@ youtube_code: Xp-6UU70ffg
 
 {% include youtube.html %}
 
+Dear Friends,
+
 We hope you’re doing well and keeping safe. We ask that if there is anything we can do to help you or your loves ones, please just let us know. Real estate-related or not, our team is always here for you.
 
 Instead of focusing on the unfortunate COVID-19 pandemic that’s currently upon us, we thought we would check in to see what our friends have been up to and see what you’re doing with your newfound wealth of time. We would like to believe there is a silver lining to everything, and maybe this is nature's way of reminding us to take the time to enjoy the things we love. Perhaps spend some more time focusing on the things we care about. Our team has been fortunate enough to spend some extra time with our families while still being able to help our clients reach their goals, because here at VLA, that’s something we care about.
