@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Van Leeuwen Real Estate Advisors - your professional Cambridge Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jerry Van Leeuwen</managingEditor>
-    <lastBuildDate>2020-03-06 14:08:36 -0600</lastBuildDate>
+    <lastBuildDate>2020-04-13 14:52:46 -0500</lastBuildDate>
     <media:copyright>Jerry Van Leeuwen</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Cambridge, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,85 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Van Leeuwen Real Estate Advisors - your professional Cambridge Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>March Real Estate Market Update</title>
+        <link>http://localhost:4000/march-real-estate-market-update.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Jerry Van Leeuwen</author>
+        <pubDate>2020-04-13 14:37:08 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/March+Real+Estate+Market+Update.mp4</guid>
+        <description>
+
+The latest numbers are in for our real estate market for March 2020. Although we had a strong start to the month, the declaration of a global pandemic certainly put a bit of a damper on things. Here are the latest stats and how they compare to what we saw during the same time period in 2019:
+
+
+  577 homes were sold (up 13.1%) for an average price of $583,000 (up 15.3%)
+  864 homes were listed (up 7.6%)
+  348 detached homes sold (up 7.1%) for an average of $679,000 (up 15.9%)
+  68 condos sold (up 5.1%) for an average of $378,000 (up 17.9%)
+  25 semis sold (up 4.2%) for an average of $492,000 (up 17.4%)
+  136 townhomes sold (up 17.2%) for an average of $457,000 (up 23%)
+
+
+Additionally, the total number of homes available at the end of March was 535, which is down 35.9% from what we saw last year at this time.
+
+“We’re implementing virtual showings, virtual open houses, and more.”
+
+We’re still seeing low inventory in our area, but also a lack of demand due to everyone being stuck in their homes. I believe that once this is over, there will be a lot of pent-up demand and the market will start humming back to normal.
+
+For those who do need to buy and sell now, we’re doing everything in our power to help while also keeping your health and safety at the top of our minds. We’re implementing virtual showings, zoom meetings, and more.
+
+If you have any questions for me about real estate or need real estate assistance of any kind, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/March+Real+Estate+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/March+Real+Estate+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As we head into April, the March real estate numbers reflect our current situation, but show positive signs for the future. Here’s what I mean.</itunes:subtitle>
+        <itunes:author>Jerry Van Leeuwen</itunes:author>
+        <itunes:summary>As we head into April, the March real estate numbers reflect our current situation, but show positive signs for the future. Here’s what I mean.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Cambridge, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Can We Do for You?</title>
+        <link>http://localhost:4000/what-can-we-do-for-you.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Jerry Van Leeuwen</author>
+        <pubDate>2020-04-01 14:26:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/What+Can+We+Do+for+You_.mp4</guid>
+        <description>
+
+Dear Friends,
+
+We hope you’re doing well and keeping safe. We ask that if there is anything we can do to help you or your loves ones, please just let us know. Real estate-related or not, our team is always here for you.
+
+Instead of focusing on the unfortunate COVID-19 pandemic that’s currently upon us, we thought we would check in to see what our friends have been up to and see what you’re doing with your newfound wealth of time. We would like to believe there is a silver lining to everything, and maybe this is nature’s way of reminding us to take the time to enjoy the things we love. Perhaps spend some more time focusing on the things we care about. Our team has been fortunate enough to spend some extra time with our families while still being able to help our clients reach their goals, because here at VLA, that’s something we care about.
+
+So, we’ve taken some time toput together a plan so that we may better serve our clients through these unusual circumstances while still respecting guidelines and doing our part to flatten the curve. Check out our video to hear more.
+
+We would like to also say a huge thank you to everyone working on the front lines for their efforts. From nurses and doctors to grocery store clerks and truck drivers, we see the sacrifices being made to help keep this country running. Time away from their families, longer work hours; some can’t even go inside of their own homes without putting their families at risk. So, from the bottom of our hearts we need to say thank you for your services.
+
+Again, real estate-related or not, please let us know if there’s a way we can help you and your families get through these strange times. We are here to help support our community always.
+
+Stay safe, friends.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/What+Can+We+Do+for+You_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/What+Can+We+Do+for+You_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We want to help during these difficult times.</itunes:subtitle>
+        <itunes:author>Jerry Van Leeuwen</itunes:author>
+        <itunes:summary>We want to help during these difficult times.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Cambridge, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Wendy Black Interiors Stages Your Home Perfectly</title>
         <link>http://localhost:4000/wendy-black-interiors-stages-your-home-perfectly.html</link>

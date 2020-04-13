@@ -7,7 +7,7 @@ description: >-
   about real estate. If you are looking to buy or sell a home, you can get all
   the information and the latest updates, tips, and tricks from The Van Leeuwen
   Real Estate Advisors, your professional Tri-Cities Area Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: 'Covid 19 Updates'
     url: /covid-19/

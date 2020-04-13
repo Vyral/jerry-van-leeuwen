@@ -2601,6 +2601,13 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.covid {
+  background: #b40101 !important;
+  color: #fff !important;
+  font-weight: bold !important; }
+  .covid:hover {
+    background: maroon !important; }
+
 .recruiting {
   text-align: center; }
 
