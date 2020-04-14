@@ -1,7 +1,7 @@
 ---
 layout: post
 title: March Real Estate Market Update
-date: 2020-04-13 19:37:08
+date: 2020-04-13 19:37:00
 tags:
   - Market Update
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   situation, but show positive signs for the future. Here’s what I mean.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/March+Real+Estate+Market+Update.mp4
-pullquote: 'We’re implementing virtual showings, virtual open houses, and more.'
+pullquote: 'We’re implementing virtual showings, open houses, and more.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,7 +20,7 @@ hidden: false
 
 {% include youtube.html %}
 
-The latest numbers are in for our real estate market for March 2020. Although we had a strong start to the month, the declaration of a global pandemic certainly put a bit of a damper on things. **Here are the latest stats and how they compare to what we saw during the same time period in 2019:**
+The latest numbers are in for our real estate market in March 2020. Although we had a strong start to the month, the declaration of a global pandemic certainly put a bit of a damper on things. **Here are the latest stats and how they compare to what we saw during the same period in 2019:**
 
 * 577 homes were sold (up 13.1%) for an average price of $583,000 (up 15.3%)
 * 864 homes were listed (up 7.6%)
@@ -35,6 +35,6 @@ Additionally, the total number of homes available at the end of March was 535, w
 
 We’re still seeing low inventory in our area, but also a lack of demand due to everyone being stuck in their homes. **I believe that once this is over, there will be a lot of pent-up demand and the market will start humming back to normal.**
 
-For those who do need to buy and sell now, we’re doing everything in our power to help while also keeping your health and safety at the top of our minds. We’re implementing virtual showings, zoom meetings, and more.
+For those who do need to buy and sell now, we’re doing everything in our power to help while also keeping your health and safety at the top of our minds. We’re implementing virtual showings, Zoom meetings, and more.
 
 If you have any questions for me about real estate or need real estate assistance of any kind, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
