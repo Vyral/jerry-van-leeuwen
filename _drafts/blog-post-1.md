@@ -37,14 +37,16 @@ We encourage our readers to feel free to send us any events or helpful hints so 
 
 &nbsp;
 
-## Local News&nbsp;
+## Fun Tips\!&nbsp;
 
-&nbsp;
+![](/uploads/audible.JPG){: width="298" height="145"}&nbsp;&nbsp;![](/uploads/nikon.JPG){: width="306" height="96"}
 
-&nbsp;
+&nbsp; &nbsp;![](/uploads/dutchies.JPG){: width="551" height="94"}
 
-&nbsp;
+ADD iN KOSTYA&nbsp;
 
 {% include youtube.html %}
+
+&nbsp;
 
 {% include pullquote.html %}
