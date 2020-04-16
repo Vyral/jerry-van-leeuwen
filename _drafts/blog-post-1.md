@@ -53,6 +53,6 @@ We encourage our readers to feel free to send us any events or helpful hints the
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-{% include youtube.html %}
+&nbsp;
 
-{% include pullquote.html %}
+&nbsp;
