@@ -19,7 +19,7 @@ hidden: true
 
 Hello Readers\!&nbsp;
 
-With new information about COVID-19 popping up every day, it can be hard to keep track of. So we thought, what better place to provide tips and resources than our blog, our readers are already here\!&nbsp;
+With new information about COVID-19 popping up every day, it can be hard to keep track of. So we thought, what better place to provide tips and resources than our blog; our readers are already here\!&nbsp;
 
 We also want to encourage our readers to share any helpful tips or tricks with us that they've discovered so we can share those too\!&nbsp;
 
@@ -49,7 +49,7 @@ We also want to encourage our readers to share any helpful tips or tricks with u
 
 &nbsp; &nbsp; Stay Safe Friends.&nbsp;
 
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/fb-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/fb-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}
 
 &nbsp;
 
