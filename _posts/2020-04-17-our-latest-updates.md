@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Blog Post 1
-date: 2020-04-17 12:55:26
+title: Our latest updates!
+date: 2020-04-17 12:55:00
 tags:
   - Covid 19 Updates
-excerpt:
+excerpt: >-
+  We want to provide with up to date resources and information. Check out what
+  we've got!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
