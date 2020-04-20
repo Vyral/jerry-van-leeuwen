@@ -3,7 +3,7 @@ layout: post
 title: 'Helpful Tips and Tricks! '
 date: 2020-04-17 00:00:00
 tags:
-  - Covid 19 Updates
+  - Covid Updates
 excerpt: >-
   To better support our readers, we've rounded up some useful tips! Check them
   out!
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /img/cover.png
 youtube_code:
 hidden: true
 ---
@@ -45,7 +45,7 @@ We also want to encourage our readers to share any helpful tips or tricks with u
 
 &nbsp; &nbsp;&nbsp;![](/uploads/kostya.JPG){: width="661" height="254"}
 
-We hope you are all doing what you can to keep safe and we want you to know we're here to help. Being a contributing part of our community is important to us, so if we can help, please just let us know\! We're all in this together.&nbsp;
+We hope you are all doing what you can to keep safe and we want you to know we're here to help. Being a contributing part of our community is important to us, so if we can help, please just let us know! We're all in this together.&nbsp;
 
 Stay Safe Friends.
 
