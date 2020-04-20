@@ -1842,6 +1842,12 @@ table tr, table td {
   padding: 10px;
   padding-bottom: 20px; }
 
+.covid-excerpt {
+  font-size: 22px;
+  color: #0f75bc;
+  padding: 10px;
+  padding-bottom: 20px; }
+
 .post-list ul {
   margin: 0 auto; }
 .post-list li {

@@ -28,7 +28,7 @@ permalink: /covid-19/
           </div>
 
           <div class="col-lg-6">
-            {{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "</p>" | truncate: 160 }}
+            {{ post.excerpt | strip_html | prepend: "<p class='covid-excerpt'>" | append: "</p>" | truncate: 160 }}
             <p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p>
           </div>
         </li>
