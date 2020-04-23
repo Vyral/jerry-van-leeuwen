@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the second edition of our COVID 19 Update!
-date:
+date: 2020-04-24 12:00:00
 tags:
   - Covid Updates
 excerpt: >-
