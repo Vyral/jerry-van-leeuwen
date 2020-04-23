@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Blog 2 '
+title: Welcome to the second edition of our COVID 19 Update!
 date:
 tags:
   - Covid Updates
-excerpt:
+excerpt: >-
+  Welcome to the second edition of our COVID 19 Update! Feel free to share your
+  helpful tips with us by messaging us on Facebook!
 enclosure:
-pullquote: >-
-  Have any helpful tips to share with other readers? Email us at
-  Vanleeuwenadvisors@gmail.com
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
