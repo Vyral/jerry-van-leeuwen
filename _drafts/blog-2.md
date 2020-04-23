@@ -5,7 +5,7 @@ date: 2020-04-24 12:00:00
 tags:
   - Covid Updates
 excerpt: >-
-  Welcome to the second edition of our COVID 19 Update! Feel free to share your
+  Welcome to the second edition of our COVID-19 Update! Feel free to share your
   helpful tips with us by messaging us on Facebook!
 enclosure:
 pullquote:
