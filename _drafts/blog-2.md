@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
-hidden: false
+hidden: true
 ---
 
 Hello Readers,&nbsp;
