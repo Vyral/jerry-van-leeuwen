@@ -23,7 +23,9 @@ We hope you enjoyed our last blog blast and were able to take advantage of some 
 
 ## For the kids\!
 
-![](/uploads/twitter.JPG){: width="282" height="246"}&nbsp; &nbsp;&nbsp;![](/uploads/kab.JPG){: width="363" height="181"}
+![](/uploads/kab.PNG){: width="375" height="209"}&nbsp;![](/uploads/twitter-f.PNG){: width="285" height="255"}
+
+![](/uploads/scholastic.JPG){: width="542" height="92"}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/scholastic.JPG){: width="542" height="92"}
 
@@ -31,21 +33,37 @@ We hope you enjoyed our last blog blast and were able to take advantage of some 
 
 ##### ![](/uploads/bills.JPG){: width="656" height="278"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When are taxes actually due?&nbsp;
 
-&nbsp; &nbsp;![](/uploads/tax.JPG){: width="636" height="240"}
+![](/uploads/taxes.PNG){: width="630" height="234"}
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {% include pullquote.html %}&nbsp;
-
-&nbsp;
+![](/uploads/bills-png.PNG){: width="641" height="269"}
 
 ## Local News
 
 **&nbsp; GRT Service Update![](/uploads/grt.JPG){: width="737" height="303"}**
 
+**![](/uploads/grt.PNG){: width="781" height="312"}**
+
 **Community Support&nbsp;![](/uploads/shelters.JPG){: width="754" height="233"}**
 
-![](/uploads/pet.JPG){: width="702" height="130"}
+There have been several temporary and shelters operating within the Waterloo Region. Below are some of the contacts numbers to help anyone in need. &nbsp;![](/uploads/shelter.PNG){: width="1006" height="224"}
 
-![](/uploads/driverseat.JPG){: width="734" height="314"}&nbsp;
+![](/uploads/hs.PNG){: width="721" height="148"}
+
+![](/uploads/driverseat.PNG){: width="716" height="293"}
+
+&nbsp; ![](/uploads/missed.PNG){: width="427" height="46"}&nbsp;&nbsp;
+
+We encourage our readers to give us feedback. If there's something you would like to see on our next blog update, just let us know and we'll make sure to include it on one of our next updates\! You can message us on Facebook or E-mail your suggestions to Vanleeuwenadvisor@gmail.com\!&nbsp;
+
+Stay Safe Friends\!&nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/fb-review-1.jpg){: width="200" height="200"}
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp;
 
 &nbsp;
 
