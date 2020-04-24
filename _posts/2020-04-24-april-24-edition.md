@@ -1,7 +1,7 @@
 ---
 layout: post
 title: April 24 Edition
-date: 2020-04-24 17:45:04
+date: 2020-04-24 17:45:00
 tags:
   - Covid Updates
 excerpt: Check out our second update edition!
@@ -51,4 +51,6 @@ Stay Safe Friends\!&nbsp;
 
 &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/fb-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/fb-review-1.jpg){: width="200" height="200"}](https://www.facebook.com/pg/jerryvanleeuwenkw/reviews/){: target="_blank"}&nbsp; &nbsp; &nbsp; &nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/g-review-1.jpg){: width="200" height="200"}](https://www.google.com/search?q=van+leeuwen+real+estate+google+review&amp;oq=van+leeuwen+real+estate+google+review&amp;aqs=chrome..69i57j33.6519j0j7&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x882b8840d04595cd:0x7cb7a6596c339e6a,1){: target="_blank"}
