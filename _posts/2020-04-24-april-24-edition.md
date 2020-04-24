@@ -1,7 +1,7 @@
 ---
 layout: post
 title: April 24 Edition
-date:
+date: 2020-04-24 17:45:04
 tags:
   - Covid Updates
 excerpt: Check out our second update edition!
@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/58523d3de7ac24e9b98f28a906133463.png
 youtube_code:
 hidden: true
 ---
