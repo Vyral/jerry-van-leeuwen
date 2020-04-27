@@ -26,6 +26,6 @@ A kitchen renovation with net you about 60% to 120% of the value you put into it
 
 **Adding square footage to the home can be extremely costly because you’re adding a full addition to the house.** With additions, you’ll get roughly 50% to 83% of the value you put into it. Adding a deck will get you back 65% to 90% of the value you put into it. Buyers will look at it as more of a finished backyard.&nbsp;
 
-Lastly, adding a new garage door will net you about 98% to 100% of the value you put into it. So **if you have an older garage door, you should get a new one;** you’ll gain your money back and a buyer may bring a higher offer for the property as well.&nbsp;
+Lastly, adding a new garage door will net you about 98% to 100% of the value you put into it. So **if you have an older garage door, you should get a new one;** you’ll gain your money back and a buyer may bring a higher offer for the property as well.
 
 If you have any questions about preparing your home for sale or you want to see the strategies we implement to sell your house for the most amount of money, feel free to call or email us. We would love to help you.
