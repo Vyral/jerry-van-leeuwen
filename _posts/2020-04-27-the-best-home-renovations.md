@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Renovations Will Net You
-date: 2020-04-27 19:19:50
+title: The Best Home Renovations
+date: 2020-04-27 19:19:00
 tags:
   - Home Seller Tips
 excerpt: I’m sharing which home renovations with net you the most money when you sell.
