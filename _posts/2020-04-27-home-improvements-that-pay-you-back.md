@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Best Home Renovations
+title: Home Improvements That Pay You Back!
 date: 2020-04-27 19:31:00
 tags:
   - Home Seller Tips
 excerpt: I’m sharing which home renovations with net you the most money when you sell.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/The+Best+Home+Renovations.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jerry+Van+Leeuwen/Videos/2020/Home+Improvements+That+Pay+You+Back!.mp4
 pullquote: Be careful to not go overboard because remodels can get very expensive.
 enclosure_type: video/mp4
 enclosure_time:
