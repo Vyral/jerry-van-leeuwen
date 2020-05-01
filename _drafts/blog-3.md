@@ -11,8 +11,8 @@ pullquote: >-
   sacrifice, It's our way of saying thank you,"
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/58523d3de7ac24e9b98f28a906133463-1.png
 youtube_code:
 hidden: true
 ---
