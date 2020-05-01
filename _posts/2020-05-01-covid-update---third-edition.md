@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Covid Update - Third Edition
-date:
+date: 2020-05-01 18:09:54
 tags:
   - Covid Updates
 excerpt: We've made it May!
