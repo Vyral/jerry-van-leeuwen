@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Covid update - Third edition
+title: Covid Update - Third Edition
 date:
 tags:
   - Covid Updates
@@ -38,9 +38,7 @@ One center will be opening on May 4 and the other, May 11 providing an additiona
 
 The program will provide a $4 increase per hour worked on top of existing hourly wage. In addition, workers who reach over 100 hours per month will be receiving a $250 lump sum payment for the next four months. The program did not initially include all frontline workers but has since been expanded to include a number of of groups, such as paramedics and all mental health workers.&nbsp;![](/uploads/e-wokrers.PNG){: width="739" height="196"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {% include pullquote.html %} - Doug Ford, Ontario Premier&nbsp;
-
-&nbsp;
+{% include pullquote.html %} - Doug Ford, Ontario Premier&nbsp;
 
 Again we wish to send our personal gratitude to all frontline workers\! We&nbsp; &nbsp; &nbsp; &nbsp; appreciate your efforts to support your communities in this time of need\!&nbsp;
 
