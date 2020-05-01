@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Covid update- Third edition
+title: Covid update - Third edition
 date:
 tags:
   - Covid Updates
