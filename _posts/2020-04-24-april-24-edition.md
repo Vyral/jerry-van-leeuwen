@@ -21,7 +21,7 @@ We hope you're all having a great week and keeping safe\! Check out the latest u
 
 ## For the kids\!&nbsp;
 
-![](/uploads/kab.PNG){: width="375" height="209"}&nbsp;![](/uploads/twitter.JPG){: width="282" height="246"}
+![](/uploads/kab.PNG){: width="375" height="209"}&nbsp;&nbsp;![](/uploads/twitter.JPG){: width="282" height="246"}
 
 &nbsp; &nbsp;![](/uploads/scholastic.JPG){: width="542" height="92"}
 
