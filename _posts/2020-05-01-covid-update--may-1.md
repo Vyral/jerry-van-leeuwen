@@ -17,17 +17,17 @@ hidden: true
 
 &nbsp;
 
-### **Welcome back readers\!&nbsp;**
+**Welcome back readers\!&nbsp;**
 
 We hope you're all having a great week and keeping safe\! Fingers crossed, it looks like we might be getting closer to the days we can spend outside\! In the meantime, we've put together a few more items of interest for you.&nbsp;
 
 ## **For the kids\!&nbsp;**
 
-We came across a fantastic website that gives so many super cool things for kids to do and see\! CommonSense Media is not-for profit organizations that gives education to promote safe technology and media for kids\! It's filled with activities that kids can do with or without their parents\! Without spoiling the list, check out a few of our favs below…&nbsp;
+We came across a fantastic website that gives so many super cool things for kids to do and see\! CommonSense Media is not-for profit organizations that gives education to promote safe technology and media for kids\! It's filled with activities that kids can do with or without their parents\! Without spoiling the list, check out a few of our favs below…
 
-![](/uploads/kid-1.PNG){: width="486" height="158"} &nbsp; &nbsp; &nbsp; &nbsp;
+![](/uploads/kid.PNG){: width="486" height="158"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Check out their website blog at www.commonsensemedia.org to see 30 different activities and so much more for kids to have fun and be safe while they learn\!&nbsp;&nbsp;
+Check out their website blog at www.commonsensemedia.org to see 30 different activities and so much more for kids to have fun and be safe while they learn\!&nbsp;&nbsp;
 
 **Schools Out?…&nbsp;**
 
