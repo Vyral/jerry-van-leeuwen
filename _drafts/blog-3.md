@@ -22,9 +22,9 @@ We hope you're all having a great week and keeping safe\! Fingers crossed, it lo
 
 ## For the kids\!&nbsp;
 
-We came across a fantastic website that gives so many super cool things for kids to do and see\! CommonSense Media is not-for profit organizations that gives education to promote safe technology and media for kids\! It's filled with activities that kids can do with or without their parents\! Without spoiling the list, check out a few of our favs below...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/kid.PNG){: width="486" height="158"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Check out their website blog at www.commonsensemedia.org to see 30 different activities and so much more for kids to have fun and be safe while they learn\!&nbsp;&nbsp;
+We came across a fantastic website that gives so many super cool things for kids to do and see\! CommonSense Media is not-for profit organizations that gives education to promote safe technology and media for kids\! It's filled with activities that kids can do with or without their parents\! Without spoiling the list, check out a few of our favs below…&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/kid.PNG){: width="486" height="158"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Check out their website blog at www.commonsensemedia.org to see 30 different activities and so much more for kids to have fun and be safe while they learn\!&nbsp;&nbsp;
 
-#### Schools Out?...&nbsp;
+#### Schools Out?…&nbsp;
 
 It was confirmed that all publicly funded school in Ontario will remain closed until May 31, 2020. Luckily, the Region of Waterloo will opening up 2 more child care locations to help essential workers.&nbsp;
 
@@ -37,7 +37,9 @@ One center will be opening on May 4 and the other, May 11 providing an additiona
 
 The program will provide a $4 increase per hour worked on top of existing hourly wage. In addition, workers who reach over 100 hours per month will be receiving a $250 lump sum payment for the next four months. The program did not initially include all frontline workers but has since been expanded to include a number of of groups, such as paramedics and all mental health workers.&nbsp;![](/uploads/e-wokrers.PNG){: width="739" height="196"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (pullquote)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {% include pullquote.html %} - Doug Ford, Ontario Premier&nbsp;
+
+&nbsp;
 
 Again we wish to send our personal gratitude to all frontline workers\! We&nbsp; &nbsp; &nbsp; &nbsp; appreciate your efforts to support your communities in this time of need\!&nbsp;
 
@@ -56,6 +58,8 @@ We look forward to seeing some brighter days ahead friends\! Lets all stay posit
 As always, stay safe out there\!&nbsp;
 
 &nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/fb-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}
 
 &nbsp;
 
