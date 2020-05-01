@@ -45,7 +45,7 @@ Waterloo Region has opened several local shelters to help aid those in need. If 
 
 ![](/uploads/missed.PNG){: width="427" height="46"}
 
-&nbsp; &nbsp; We encourage our readers to let us know if we missed something. If there's something specific you would like to see in our COVID updates, then just let us know\! You can email us or message us on Facebook and we'll do our best to get it in one of our upcoming updates.&nbsp;
+We encourage our readers to let us know if we missed something. If there's something specific you would like to see in our COVID updates, then just let us know\! You can email us or message us on Facebook and we'll do our best to get it in one of our upcoming updates.&nbsp;
 
 Stay Safe Friends\!&nbsp;
 
