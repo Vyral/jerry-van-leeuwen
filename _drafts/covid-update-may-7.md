@@ -29,7 +29,7 @@ Visit [www.airportexplorerclub.com](http://www.www.airportexplorer.club.com/){: 
 
 ![](/uploads/md.PNG){: width="306" height="52"}
 
-Mother's Day is just around the corner and the kids sadly won't be bringing home school made gifts this year\! And let's be honest... Moms have been working overtime the past few weeks so it's a perfect time to show them how much we&nbsp; appreciate everything they do for us. We've got a few ideas for you...
+Mother's Day is just around the corner and the kids sadly won't be bringing home school made gifts this year\! And let's be honest… Moms have been working overtime the past few weeks so it's a perfect time to show them how much we&nbsp; appreciate everything they do for us. We've got a few ideas for you…
 
 ##### 1\. Bring Brunch to her\!&nbsp;
 
@@ -56,5 +56,7 @@ Sounds like everyone will be spending their weekend outside\! With that in mind,
 ![](/uploads/tt.PNG){: width="467" height="34"}![](/uploads/flowers.PNG){: width="761" height="581"}
 
 That's all for this week\! Remember, if there's something specific you wish to see or share here on our blog, then just let us know\! &nbsp;Sending best wishes on Mothers Day to all moms out there and a reminder to keep safe friends.&nbsp;
+
+![](/uploads/fb-review-1.jpg){: width="200" height="200"}&nbsp; &nbsp; &nbsp;![](/uploads/g-review-1.jpg){: width="200" height="200"}
 
 &nbsp;
