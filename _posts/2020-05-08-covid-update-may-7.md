@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Covid Update, May 7'
-date: Invalid date
+date: 2020-05-08 16:10:50
 tags:
   - Covid Updates
 excerpt: Welcome to our Spring Edition!
