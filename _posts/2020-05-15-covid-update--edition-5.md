@@ -49,13 +49,11 @@ Being able to move our communities to the next stage, is however based on a few 
 
 The Ontario government also announced on Wednesday, they have now launched a new program called Regional relief and Recovery Program ( RRRF) for businesses this week that perhaps didn't qualify for previous employment programs. Visit&nbsp;[www.canada.ca/news](https://www.canada.ca/en/news.html) for more information.&nbsp;
 
-###### Here are some recent and upcoming re-openings for this week.&nbsp;
+##### Here are some recent and upcoming re-openings for this week.&nbsp;
 
-![](/uploads/lw.PNG){: width="673" height="220"}
+##### ![](/uploads/lw.PNG){: width="673" height="220"}
 
 &nbsp;
-
-![](/uploads/reopens.PNG){: width="738" height="411"}
 
 The Ontario government has also launched a new program for businesses this week that perhaps didn't qualify for previous employment programs. Visit www.canada.ca/news for more information.&nbsp;
 
