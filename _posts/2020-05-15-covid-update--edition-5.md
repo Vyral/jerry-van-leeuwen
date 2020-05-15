@@ -1,14 +1,15 @@
 ---
 layout: post
-title: blog 5
-date:
+title: 'Covid  Update- Edition #5!'
+date: 2020-05-15 14:11:37
 tags:
-excerpt:
+  - Covid Updates
+excerpt: Good news comes with the first long weekend of the year!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 hidden: false
@@ -16,7 +17,7 @@ hidden: false
 
 Hello Readers,&nbsp;
 
-Welcome back\! Our first Long weekend of the year approaches and for many of us, it will feel a bit different this year. Maybe you should be gathering at the cottage with some friends or travelling to go see some loved ones, and although these options aren't possible just yet... there seems to be some good news on the horizon\! &nbsp;
+Welcome back\! Our first Long weekend of the year approaches and for many of us, it will feel a bit different this year. Maybe you should be gathering at the cottage with some friends or travelling to go see some loved ones, and although these options aren't possible just yet… there seems to be some good news on the horizon\! &nbsp;
 
 ### Gradual 3 Stage Plan
 
@@ -38,7 +39,7 @@ There has been a lot of talk lately about the government starting its new 3 stag
 ##### Stage 3&nbsp;
 
 * opening all workplaces responsibly
-* relaxing the restrictions o n public gatherings.&nbsp;
+* relaxing the restrictions on public gatherings.&nbsp;
 
 Being able to move our communities to the next stage, is however based on a few following conditions. 👇👇
 
@@ -46,11 +47,17 @@ Being able to move our communities to the next stage, is however based on a few 
 * Approx 90 % of new covid contacts are being reached by local public health officials within one day&nbsp;
 * ongoing testing of suspected covid cases in order to detect new cases quickly.&nbsp;
 
-The Ontario government also announced on Wednesday, they have now launched a new program called Regional relief and Recovery Program ( RRRF) for businesses this week that perhaps didn't qualify for previous employment programs. Visit[www.canada.ca/news](https://www.canada.ca/en/news.html) for more information.&nbsp;
+The Ontario government also announced on Wednesday, they have now launched a new program called Regional relief and Recovery Program ( RRRF) for businesses this week that perhaps didn't qualify for previous employment programs. Visit&nbsp;[www.canada.ca/news](https://www.canada.ca/en/news.html) for more information.&nbsp;
 
 ###### Here are some recent and upcoming re-openings for this week.&nbsp;
 
 ![](/uploads/lw.PNG){: width="673" height="220"}
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/reopens.PNG){: width="738" height="411"}
 
 The Ontario government has also launched a new program for businesses this week that perhaps didn't qualify for previous employment programs. Visit www.canada.ca/news for more information.&nbsp;
 
@@ -68,7 +75,7 @@ Our beloved Toronto Raptors lead the way for easing restrictions on pro sports t
 
 Provincial Parks and conservation areas in Ontario are set to reopen by the end of this week for limited day day use access. This means its time to hit your favorite trails for some hiking, biking and long walks with the fam. &nbsp;Camping, beaches and other activities are still prohibited for now, but this is definitely a plus in our books\!&nbsp;
 
-&nbsp;
+We wish all of our readers a happy and safe first long weekend of 2020. May the days be sunny and laughs be plenty\!&nbsp;
 
 &nbsp;
 
