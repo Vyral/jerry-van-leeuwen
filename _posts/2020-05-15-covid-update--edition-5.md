@@ -55,6 +55,8 @@ The Ontario government also announced on Wednesday, they have now launched a new
 
 &nbsp;
 
+![](/uploads/reopens-1.PNG){: width="738" height="411"}
+
 The Ontario government has also launched a new program for businesses this week that perhaps didn't qualify for previous employment programs. Visit www.canada.ca/news for more information.&nbsp;
 
 ![](/uploads/subtitle.PNG){: width="543" height="67"}
