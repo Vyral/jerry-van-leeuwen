@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Covid  Update- Edition #5!'
-date: 2020-05-15 14:11:37
+date: 2020-05-15 14:11:00
 tags:
   - Covid Updates
 excerpt: Good news comes with the first long weekend of the year!
@@ -55,8 +55,6 @@ The Ontario government also announced on Wednesday, they have now launched a new
 
 &nbsp;
 
-&nbsp;
-
 ![](/uploads/reopens.PNG){: width="738" height="411"}
 
 The Ontario government has also launched a new program for businesses this week that perhaps didn't qualify for previous employment programs. Visit www.canada.ca/news for more information.&nbsp;
@@ -78,7 +76,3 @@ Provincial Parks and conservation areas in Ontario are set to reopen by the end 
 We wish all of our readers a happy and safe first long weekend of 2020. May the days be sunny and laughs be plenty\!&nbsp;
 
 &nbsp;
-
-{% include youtube.html %}
-
-{% include pullquote.html %}
