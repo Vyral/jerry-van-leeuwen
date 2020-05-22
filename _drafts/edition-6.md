@@ -3,7 +3,8 @@ layout: post
 title: Edition 6
 date:
 tags:
-excerpt:
+  - Covid Updates
+excerpt: We've got you covered for Phase 1 openings!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +17,7 @@ hidden: false
 
 Hello Readers,&nbsp;
 
-Welcome back\! We hope you all enjoyed your long weekends, despite the two days of rain\! On the bright side, it did give some time to get both outdoor and indoor projects completed. Lots of exciting things happening lately...&nbsp;
+Welcome back\! We hope you all enjoyed your long weekends, despite the two days of rain\! On the bright side, it did give some time to get both outdoor and indoor projects completed. Lots of exciting things happening lately…&nbsp;
 
 ![](/uploads/school.PNG){: width="423" height="55"}
 
@@ -52,12 +53,10 @@ The good news is that several outdoor spots are beginning to open up\!&nbsp; Out
 
 ##### The 401 is in its final stages of expansion\!&nbsp;
 
-Premier Doug Ford announced this week that the final stages of construction on the 40-1 spot between Hespeler Road and Townline Road is set to begin\! Phase 2 includes widening the highways from the current 6 to 10 lanes. The expected construction is estimated to take just over two years, taking us into 2023 by the time its finished. Although the timeline doesn't sound ideal, its certainly sounds like congestion an traffic flow will definitely be improved.&nbsp;
+Premier Doug Ford announced this week that the final stages of construction on the 401 spot between Hespeler Road and Townline Road is set to begin\! Phase 2 includes widening the highways from the current 6 to 10 lanes. The expected construction is estimated to take just over two years, taking us into 2023 by the time its finished. Although the timeline doesn't sound ideal, its certainly sounds like congestion an traffic flow will definitely be improved.&nbsp;
 
-We'll keep you posted on any new updates friends. If you have any helpful tips or news, make sure to email us so we can share with the rest of our readers\!&nbsp;
+We'll keep you posted on any new updates friends. If you have any helpful tips or news, make sure to email us so we can share with the rest of our readers\! We know it;s exciting that things are beginning to open back up but we want to remind you readers.. it's still just as important to keep practicing social distancing in order to keep yourself and your loved ones safe\!&nbsp;
 
 &nbsp;
 
-{% include youtube.html %}
-
-{% include pullquote.html %}
+&nbsp;
