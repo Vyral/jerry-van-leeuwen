@@ -19,4 +19,6 @@ Happy Monday Friends\!&nbsp;
 
 The weather isn't the only thing that's hot right now… check out our latest market update for July 2020.
 
+&nbsp;
+
 If you have any further questions about buying or selling a home, or even just looking for some more information about what's happening in the market, give us a call. We're always here to help\!&nbsp;
