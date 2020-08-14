@@ -9,7 +9,7 @@ description: >-
   Real Estate Advisors, your professional Tri-Cities Area Real Estate Agents.
 show_custom_links: false
 custom_links:
-  - title: 'Covid 19 Updates'
+  - title: Covid 19 Updates
     url: /covid-19/
 show_custom_links_new_tab: false
 custom_links_new_tab:
@@ -28,7 +28,7 @@ client:
   brand: Van Leeuwen Real Estate Advisors
   brokerage: Keller Williams Golden Triangle Realty
   market: Tri-Cities Area
-  address: '240 Holiday Inn Drive, Suite S, Cambridge, Ontario N3C 3X4'
+  address: '1165 Franklin Blvd, Cambridge, Ontario N1R 8E1'
   phone: 519-208-6026
   phone_type:
   phone2:
